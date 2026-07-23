@@ -272,19 +272,11 @@ BUILD SUCCESS
 
 
 
-\## Deliverables
 
 
 
-\- 📄 \*\*Report:\*\* see `Lab2\_Report.docx` for the full test case summary, Maven test results, and links.
-
-\- 🎥 \*\*Demo Video:\*\* \[link here]
 
 
 
-\## Author
-
-
-
-\[Your Name] — SOFE 3980U, Ontario Tech University
+\Janvi Naresh Gurfude — SOFE 3980U, Ontario Tech University
 
